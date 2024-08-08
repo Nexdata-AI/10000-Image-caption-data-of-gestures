@@ -3,7 +3,7 @@
 ## Description
 20,000 Image caption data of gestures, mainly for young and middle-aged people, the collection environment includes indoor scenes and outdoor scenes, including various collection environments, various seasons, and various collection angles. The description language is English, mainly describing hand characteristics such as hand movements, gestures, image acquisition angles, gender, age, etc.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1287?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1287?source=Github
 
 
 ## Data size
